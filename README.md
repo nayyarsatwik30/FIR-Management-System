@@ -11,9 +11,9 @@ C++ compiler (supporting C++11 or later)
 VSCode
 
 ## Installation
-Clone the repository: github clone https://github.com/nayyarsatwik30
-Compile the program: g++ FIR.cpp
-Run the application: ./a.exe
+1. Clone the repository: github clone https://github.com/nayyarsatwik30
+2. Compile the program: g++ FIR.cpp
+3. Run the application: ./a.exe
 
 ## Usage
 The program presents a menu with the following options:
